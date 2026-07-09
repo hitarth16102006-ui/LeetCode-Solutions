@@ -1,12 +1,15 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int k = 0; // pointer for next position of non-val element
-        for (int i = 0; i < nums.length; i++) {
+        int n = nums.length;
+        int j = 0;
+
+        for (int i = 0; i < n; i++) {
             if (nums[i] != val) {
-                nums[k] = nums[i]; // move non-val element forward
-                k++;
+                nums[j] = nums[i];
+                j++;
             }
         }
-        return k; // number of elements not equal to val
+
+        return j;
     }
 }
