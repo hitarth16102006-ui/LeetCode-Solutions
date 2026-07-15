@@ -3,6 +3,7 @@
 ## Solved Problems
 
 - ✅ 1-two-sum
+- ✅ 167-two-sum-ii-input-array-is-sorted
 - ✅ 189-rotate-array
 - ✅ 231-power-of-two
 - ✅ 263-ugly-number
@@ -14,6 +15,6 @@
 
 ---
 
-**Total Problems Solved:** 9
+**Total Problems Solved:** 10
 
-Last Updated: Wed Jul 15 17:10:52 UTC 2026
+Last Updated: Wed Jul 15 17:14:26 UTC 2026
