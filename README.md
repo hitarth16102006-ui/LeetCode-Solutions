@@ -12,9 +12,10 @@
 - ✅ 326-power-of-three
 - ✅ 58-length-of-last-word
 - ✅ 9-palindrome-number
+- ✅ LeetCode
 
 ---
 
-**Total Problems Solved:** 10
+**Total Problems Solved:** 11
 
-Last Updated: Wed Jul 15 17:14:26 UTC 2026
+Last Updated: Sat Jul 18 07:40:54 UTC 2026
